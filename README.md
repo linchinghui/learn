@@ -1,1 +1,1 @@
-# Study and learn how to use GitHub
+# Studying and learning how to use GitHub
